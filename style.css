@@ -1,0 +1,451 @@
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.2) ,rgba(0,0,0,0.2)), url(background.jpg);
+    background-repeat: repeat;
+    
+}
+button
+{
+    border-width: 2px;
+    height: 40px;
+    width: 80px;
+    margin-left: 90%;
+    margin-top: 5%;
+    border-color:rgba(69, 31, 6, 0.548);
+    border-style: solid;
+    border-radius: 5px;
+}
+button:hover
+{
+    border-color: rgba(69, 31, 6, 0.548);;
+}
+a
+{   
+    text-decoration: none;
+}
+.ap
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 5%;
+}
+.ap:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.ar
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 60%;
+    margin-top: -36%;
+}
+.ar:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.as
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.as:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.br
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.br:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.cg
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.cg:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.ga
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.ga:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.gj
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.gj:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.hr
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.hr:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.hp
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.hp:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.jk
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.jk:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.jh
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.jh:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.ka
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.ka:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+.kl
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.kl:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.mh
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.mh:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.ml
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.ml:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.mn
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.mn:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.mp
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.mp:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.mz
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.mz:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+.nl
+{
+    border-width: 3px;
+    height: 400px;
+    width: 400px;
+    border-color:rgba(72, 6, 6, 0.548);
+    border-style: solid;
+    border-radius: 7px;
+    background-color: rgb(114, 71, 22);
+    text-align: center;
+    padding: 20px;
+    color:white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.nl:hover
+{
+    transition-duration: 0.3s;
+    transform :scale(1.03);
+    box-shadow: 1px 2px 10px black;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.as
+{
+    justify-content: space-evenly;
+}
